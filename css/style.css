@@ -1,0 +1,9 @@
+/*.content {
+  background: -webkit-linear-gradient(#F5BF89, #FFFFFF, #AFDEAA);
+}*/
+
+#microphone {
+   position:absolute;
+   bottom:0;
+   left:45%;
+}
